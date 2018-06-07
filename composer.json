@@ -1,0 +1,17 @@
+{
+  "name": "acodesmith/lightspeed-customer-sync",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "ACODESMITH",
+      "email": "adam@acodesmith.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "LightspeedCustomerSync\\": "src/"
+    },
+    "files": [
+    ]
+  }
+}
